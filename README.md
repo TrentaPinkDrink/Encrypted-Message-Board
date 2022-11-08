@@ -1,7 +1,7 @@
 # Encrypted-Message-Board
 This is a encrypted message board with simple GUI.
 
-*Features:*
+**Features:**
   - Create Account, change password, delete acount.
   - Add messages, clear messages, check who read your messages, clear all messages
   - Check others' messages, mark as read
