@@ -76,7 +76,7 @@ class LoginPage(object):
 		entry_usr_pwd = Entry(window_sign_up, textvariable=new_pwd, show='*')
 		entry_usr_pwd.grid(row=2, column=1, stick=E)
 
-		Button(window_sign_up, text='注册', command=subCreate).grid(row=3, column=1, stick=W)
+		Button(window_sign_up, text='Sign up', command=subCreate).grid(row=3, column=1, stick=W)
 
 
 class MainPage(object):
